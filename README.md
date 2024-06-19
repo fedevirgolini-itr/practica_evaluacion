@@ -80,3 +80,5 @@ Modularizar la lista anterior en una componente denominada `ShoppingList`.
 Esta componente recibirá a través de sus propiedades la lista completa de elementos y se encargará de renderizarlos en una lista.
 
 Una vez finalizado, realizar un commit.
+
+<!-- Ejercicio 9: filtrar los elementos por categoría -->
